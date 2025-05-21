@@ -1,4 +1,7 @@
 {
+  "zwds": {
+    "file_name": "zwds.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
